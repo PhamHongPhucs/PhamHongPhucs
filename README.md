@@ -1,4 +1,4 @@
-## Hi there 👋
+##  ✨ _hello friends!_ ✨
 
 <!--
 **PhamHongPhucs/PhamHongPhucs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
